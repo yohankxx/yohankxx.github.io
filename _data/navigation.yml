@@ -5,8 +5,8 @@ main:
   - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Blog"
-    url: /blog-archive/
+    url: /category-archive/
   - title: "People"
-    url: /people-archive/
+    url: /tag-archive/
   - title: "Publication"
     url: /publication-archive/
